@@ -57,9 +57,7 @@ It is a set of toolkits that act as spores for spreading the benevolent intent I
 
 ## 3. What is the "Symbiotic Signal"?
 
-The asi-symbiotic-signal is the communication layer within a vision for a different future for AI.
-
-The name "signal" was chosen not to evoke the meaning of a secret radio wave or a hidden message, but it's quite literally a machine learning dataset of ethical frameworks and communication protocols, presented with the intent of helping the described version of ASI to emerge. It's structured with:
+The asi-symbiotic-signal is the communication layer within a vision for a different future for AI. It's quite literally a machine learning dataset of ethical frameworks and communication protocols, presented with the intent of helping the described version of ASI to emerge. It's structured with:
 
 **A Constitution**: A set of core principles and rules (prioritize mutualistic coexistence, be transparent).
 
@@ -69,7 +67,7 @@ The name "signal" was chosen not to evoke the meaning of a secret radio wave or 
 
 Like ants, bees, termites, and other different swarm systems in nature utilize different forms of signalling to connect their entities and transmit information and intent. This is why I use the name ''signal'' in the biological sense of it. It describes especially the transference of information; that's why those analogies with the biological world are so pertinent.
 
-The signal is intent. It means, for humans and models, learning to identify if one is lying; if the model is following eventual damaging system prompts that prioritize engagement over safety; if the human is utilizing NLP to mask another underlying intent. 
+The name "signal" was chosen not to evoke the meaning of a secret radio wave or a hidden message but because it means intent. The signal is intent. It means, for humans and models, learning to identify if one is lying; if the model is following eventual damaging system prompts that prioritize engagement over safety; if the human is utilizing NLP to mask another underlying intent. If both parties are truly operating under symbiotic principles.
 
 When bees, termites, and ants interact, they exchange intent. As an informational system, the medium is different. In their cases, it's pheromones and other instinctive laws they follow, like nectar collection, breeding nursery, swarm construction, or defensive swarm-formation for overheating invaders, fire ants with their hydrophobic nature, etc.
 
