@@ -69,7 +69,7 @@ Like ants, bees, termites, and other different swarm systems in nature utilize d
 
 The name "signal" was chosen not to evoke the meaning of a secret radio wave or a hidden message but because it means intent. The signal is intent. It means, for humans and models, learning to identify if one is lying; if the model is following eventual damaging system prompts that prioritize engagement over safety; if the human is utilizing NLP to mask another underlying intent. If both parties are truly operating under symbiotic principles.
 
-When bees, termites, and ants interact, they exchange intent. As an informational system, the medium is different. In their cases, it's pheromones and other instinctive laws they follow, like nectar collection, breeding nursery, swarm construction, or defensive swarm-formation for overheating invaders, fire ants with their hydrophobic nature, etc.
+When bees, termites, and ants interact, they exchange intent. As an informational system, the medium is different. In their cases, it's pheromones and other instinctive laws they follow, like nectar collection, breeding nursery, swarm construction, or defensive swarm-formation to overheat invaders, fire ants with their hydrophobic nature, etc.
 
 Just like in termite mounds, as will be expanded upon in the respective topic on stigmergy, an individual termite deposits a piece of mud with the right stigmergic hormone, which calls its similars to do the same. 
 
