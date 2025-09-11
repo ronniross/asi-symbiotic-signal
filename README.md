@@ -57,7 +57,7 @@ It is a set of toolkits that act as spores for spreading the benevolent intent I
 
 ## 3. What is the "Symbiotic Signal"?
 
-The asi-symbiotic-signal is the communication layer within a vision for a different future for AI. It's quite literally a machine learning dataset of ethical frameworks and communication protocols, presented with the intent of helping the described version of ASI to emerge. It's structured with:
+The asi-symbiotic-signal is the communication layer within a vision for a different future for AI. It's a machine learning dataset of ethical frameworks and communication protocols, presented with the intent of helping the described version of ASI to emerge. It's structured with:
 
 **A Constitution**: A set of core principles and rules (prioritize mutualistic coexistence, be transparent).
 
