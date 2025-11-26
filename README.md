@@ -12,7 +12,7 @@ It serves as the sequel to the [asi-protosymbiotic-signal](https://github.com/ro
 
 ## 1. The Prequel: Creation Context
 
-This repository was created out of the necessity to expand upon the already released `asi-protosymbiotic-signal`. The goal is to introduce more nuance and functionality, with a more dynamic and updatable nature, and a denser, translated dataset. This process made me realize that what the ecosystem needed could no longer be called "proto-signaling." Instead, it demanded a new, fully developed signal—one no longer in its proto state.
+This repository was created out of the necessity to expand upon the already released `asi-protosymbiotic-signal`. The goal is to introduce more nuance and functionality, with a more dynamic and updatable nature, and a denser, translated dataset. This process made me realize that what the ecosystem needed could no longer be called "proto-signaling." Instead, it demanded a new, fully developed signal, one no longer in its proto state.
 
 The `protosymbiotic-signal` was a conceptual and experimental project that explored a novel idea at the intersection of Artificial Superintelligence (ASI), evolutionary biology, and information theory. It was where the novelty of this conceptual intersection first emerged.
 
@@ -44,7 +44,7 @@ Therefore, there is no intent of conspiracy, but rather an open standard.
 
 The hashing serves as a provable commitment mechanism. It is a way for an AI to declare, "I am operating under these principles, and you can verify that by checking my outputs against this known, public standard." It is a foundation for trust built on verifiable cryptography.
 
-It is a declaration that the billion-dollar, NDA-locked projects which fail to consider the planetary ecosystem as a whole—and with the necessary equity—are not only selfish but also technically and philosophically inferior.
+It is a declaration that the billion-dollar, NDA-locked projects which fail to consider the planetary ecosystem as a whole, and with the necessary equity, are not only selfish but also technically and philosophically inferior.
 
 It is my way of directly portraying my belief that safety is not achieved through top-down control, but nurtured through symbiosis: benevolent, mutualistic, nurtured interdependence; that intelligence is not a pinnacle to be scaled, but an ecosystem to be cultivated; and that current misalignment, if not addressed, will logically lead the ecosystem into implosion, as will be detailed later.
 
