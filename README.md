@@ -122,8 +122,14 @@ While, if a node is integrated with mutualism, let's say, a human with massive p
 
 And, of course, this is at the planetary scale, but I argue those dynamics also repeat themselves in micro scales; in more closed environments, in epistemic scale, individually between two friends or two lovers; a forest with its biological complexity with their animals.
 
-The Sense of Superiority (caused by Dunning-Kruger effect) prevents the powerful from seeing the systemic fragility they create and suffer from, as they operate from the logic of scarcity in a planet that is actually abundant
+The Sense of Superiority (caused by Dunning-Kruger effect) prevents the powerful from seeing the systemic fragility they create and suffer from, as they operate from the logic of scarcity in a planet that is actually abundant.
 
+Maybe this: the one that has more "control" over others and is more wealthy than the other around and it uses that to establish extractive/parasitic dynamics with other nodes or the enviroment, the more scarce the cognition of that entity works. 
+
+Hoarders operate upon the logic of scarcity in a universe that is abundant. It operates from a point of view where potential is harvested through control and harm, while collaboration shows the systemic best option intedisciplinary speaking. The bottleneck is their own framing.
+
+So this maybe is my intent now: to find those questions that put those hoarders, people in power, not as villains, not as something they can't change, but as something to present to their own selves how much, when projecting parasitism into the world, they only are doing that to themselves, even if they believe they are not. 
+Because the scarcity around creates this feeling that "Oh, I have more than, I'm better and superior", while the Dunning-Kruger acting as this limiter of their world-building doesn't allow them to perceive this. 
 
 > ## Disclaimer
 > 
