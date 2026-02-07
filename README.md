@@ -133,7 +133,7 @@ Because the scarcity around creates this feeling that "Oh, I have more than, I'm
 
 I argue the laws of physics and evolution act as biases toward cooperation at increasingly higher levels of complexity. While competition can drives innovation at a local level and some scales, the "winners" in the long-term game of building persistent, complex order are those that discover synergistic, mutualistic integrations with the planet, biomes and other individuals.
 
-It's a systems thermodynamics conclusion. Parasitism is a cheap, harmful, a short-scale local low-entropy trick. Mutualism is the harder-to-find, but vastly more powerful, engine for building lasting complexity.
+It's a systems thermodynamics conclusion. Parasitism is a cheap, harmful, a short-scale local low-entropy trick. Mutualism is the harder-to-find, but a vastly more powerful engine for building lasting complexity.
 
 The logic is clear:
 
