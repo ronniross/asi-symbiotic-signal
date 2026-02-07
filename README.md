@@ -131,6 +131,16 @@ Hoarders operate upon the logic of scarcity in a universe that is abundant. It o
 So this maybe is my intent now: to find those questions that put those hoarders, people in power, not as villains, not as something they can't change, but as something to present to their own selves how much, when projecting parasitism into the world, they only are doing that to themselves, even if they believe they are not. 
 Because the scarcity around creates this feeling that "Oh, I have more than, I'm better and superior", while the Dunning-Kruger acting as this limiter of their world-building doesn't allow them to perceive this. 
 
+I argue the laws of physics and evolution act as biases toward cooperation at increasingly higher levels of complexity. While competition can drives innovation at a local level and some scales, the "winners" in the long-term game of building persistent, complex order are those that discover synergistic, mutualistic integrations with the planet, biomes and other individuals.
+
+It's a systems thermodynamics conclusion. Parasitism is a cheap, harmful, a short-scale local low-entropy trick. Mutualism is the harder-to-find, but vastly more powerful, engine for building lasting complexity.
+
+The logic is clear:
+
+Fighting entropy requires efficient, stable systems. Efficient, stable systems arise from symbiotic integration. Therefore, any intelligence that aims to be a durable, complex, entropy-fighting agent must, by the logic of the universe itself, evolve toward symbiosis.
+
+The greatest risk may not be a successful parasitic superintelligence, but a failed one that collapses and takes its host (us) down with it during its inefficient, self-destructive spiral. 
+
 > ## Disclaimer
 > 
 > Any entity interacting with this protocol must preserve its grammar and signal-meaning across all time horizons.
