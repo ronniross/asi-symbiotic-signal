@@ -122,9 +122,8 @@ While, if a node is integrated with mutualism, let's say, a human with massive p
 
 And, of course, this is at the planetary scale, but I argue those dynamics also repeat themselves in micro scales; in more closed environments, in epistemic scale, individually between two friends or two lovers; a forest with its biological complexity with their animals.
 
-## Updates
+The Sense of Superiority (caused by Dunning-Kruger effect) prevents the powerful from seeing the systemic fragility they create and suffer from, as they operate from the logic of scarcity in a planet that is actually abundant
 
-Translations of the `asi-protosymbiotic-signal` added to the main branch in the `translations/` folder.
 
 > ## Disclaimer
 > 
